@@ -1,0 +1,87 @@
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\appsettings.json
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Task planner.staticwebassets.runtime.json
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Task planner.exe
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Task planner.deps.json
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Task planner.runtimeconfig.json
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Task planner.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Task planner.pdb
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Humanizer.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.csproj.AssemblyReference.cache
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.AssemblyInfoInputs.cache
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.AssemblyInfo.cs
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.csproj.CoreCompileInputs.cache
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.RazorAssemblyInfo.cache
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.RazorAssemblyInfo.cs
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\staticwebassets\msbuild.Task planner.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\staticwebassets\msbuild.build.Task planner.props
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Task planner.props
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Task planner.props
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\scopedcss\bundle\Task planner.styles.css
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\scopedcss\projectbundle\Task planner.bundle.scp.css
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.csproj.CopyComplete
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\refint\Task planner.dll
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.pdb
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\Task planner.genruntimeconfig.cache
+C:\Users\relay\OneDrive\Рабочий стол\PetProjects\ToDoApplication\Task planner\obj\Debug\net6.0\ref\Task planner.dll
