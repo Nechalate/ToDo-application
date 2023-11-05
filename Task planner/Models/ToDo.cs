@@ -17,13 +17,13 @@ namespace Task_planner.Models
         public string CategoryId { get; set; } = string.Empty;
 
         [ValidateNever]
-        public TaskCategory Category { get; set; } = null!;
+        public Category Category { get; set; } = null!;
 
         [Required(ErrorMessage = "Select a status")]
         public string StatusId {  get; set; } = string.Empty;
 
         [ValidateNever]
-        public TaskStatus Status { get; set; } = null!;
+        public Status Status { get; set; } = null!;
 
         public bool Overdue => StatusId == "open" && DueDate < DateTime.Today;
     }
