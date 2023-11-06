@@ -52,5 +52,66 @@ namespace Task_planner.Controllers
 
             return View(tasks);
         }
+
+        [HttpGet]
+        public IActionResult Add()
+        {
+            ViewBag.Categories = context.Categories.ToList();
+            ViewBag.Statuses = context.Statuses.ToList();
+            var task = new ToDo { StatusId = "open" };
+
+            return View(task);
+        }
+
+        [HttpPost]
+        public IActionResult Add(ToDo task)
+        {
+            if (ModelState.IsValid)
+            {
+                context.ToDos.Add(task);
+                context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                ViewBag.Categories = context.Categories.ToList();
+                ViewBag.Statuses = context.Statuses.ToList();
+                return View(task);
+            }
+        }
+
+        [HttpPost]
+        public IActionResult Filter(string[] filter)
+        {
+            string id = string.Join('-', filter);
+            return RedirectToAction("Index", new {ID = id});
+        }
+
+        [HttpPost]
+        public IActionResult MarkComplete([FromRoute] string id, ToDo selected)
+        {
+            selected = context.ToDos.Find(selected.Id);
+
+            if (selected != null)
+            {
+                selected.StatusId = "closed";
+                context.SaveChanges();
+            }
+            return RedirectToAction("Index", new {ID  = id});
+        }
+
+        [HttpPost]
+        public IActionResult DeleteComplete(string id)
+        {
+            var toDelete = context.ToDos.Where(t => t.StatusId == "closed").ToList();
+
+            foreach (var task in toDelete)
+            {
+                context.ToDos.Remove(task);
+            }
+            context.SaveChanges(true);
+
+            return RedirectToAction("Index", new {ID = id});
+        }
     }
 }
