@@ -12,7 +12,7 @@ using Task_planner.Models;
 namespace Task_planner.Migrations
 {
     [DbContext(typeof(ToDoContext))]
-    [Migration("20231105215318_initial")]
+    [Migration("20231105220134_initial")]
     partial class initial
     {
         /// <inheritdoc />

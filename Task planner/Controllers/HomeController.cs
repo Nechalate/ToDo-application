@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using Task_planner.Models;
 
@@ -6,27 +7,50 @@ namespace Task_planner.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private ToDoContext context;
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+        public HomeController(ToDoContext ctx) => context = ctx;
 
-        public IActionResult Index()
+        public IActionResult Index(string id)
         {
-            return View();
-        }
+            var filters = new Filters(id);
+            ViewBag.Filters = filters;
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+            ViewBag.Categories = context.Categories.ToList();
+            ViewBag.Statuses = context.Statuses.ToList();
+            ViewBag.DueFilters = Filters.DueFilterValues;
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            IQueryable<ToDo> query = context.ToDos
+                .Include(t => t.Category)
+                .Include(t => t.Status);
+
+            if (filters.HasCategory)
+            {
+                query = query.Where(t => t.CategoryId == filters.CategoryId);
+            }
+            if (filters.HasStatus)
+            {
+                query = query.Where(t => t.StatusId == filters.StatusId);
+            }
+            if (filters.HasDue)
+            {
+                var today = DateTime.Today;
+                if (filters.IsPast)
+                {
+                    query = query.Where(t => t.DueDate < today);
+                }
+                else if (filters.IsFuture)
+                {
+                    query = query.Where(t => t.DueDate > today);
+                }
+                else if (filters.IsToday)
+                {
+                    query = query.Where(t => t.DueDate == today);
+                }
+            }
+            var tasks = query.OrderBy(t => t.DueDate).ToList();
+
+            return View(tasks);
         }
     }
 }
