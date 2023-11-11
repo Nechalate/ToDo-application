@@ -4,14 +4,14 @@
     {
         public Filters(string filterstring)
         {
-            Filterstring = filterstring ?? "all-all-all";
-            string[] filters = Filterstring.Split('-');
+            FilterString = filterstring ?? "all-all-all";
+            string[] filters = FilterString.Split('-');
             CategoryId = filters[0];
             Due = filters[1];
             StatusId = filters[2];
         }
 
-        public string Filterstring { get; }
+        public string FilterString { get; }
         public string CategoryId { get; }
         public string Due { get; }
         public string StatusId { get; }
