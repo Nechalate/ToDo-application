@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ax3VEX1+NbkM40RtO5Ek2wVXVCUBhNRkcUpeNSxZppOSAwoD2yh+GjBV4el/Hn+4DoZ47QpD3OHrBXaI4IBZjA==",
+  "dgSpecHash": "uhoD8N+jtHfUfbnG58NDUV/mEZeVu4uMFGk95hVjxnUwq5d88wGZDFCLIHsvNT62cKUECBWWrla5sB4IbmAksA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\relay\\OneDrive\\Рабочий стол\\PetProjects\\ToDoApplication\\Task planner\\Task planner.csproj",
+  "projectFilePath": "D:\\PetProjects\\ToDoApplication\\Task planner\\Task planner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\relay\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\relay\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

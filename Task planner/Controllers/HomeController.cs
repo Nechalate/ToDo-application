@@ -109,7 +109,7 @@ namespace Task_planner.Controllers
             {
                 context.ToDos.Remove(task);
             }
-            context.SaveChanges(true);
+            context.SaveChanges();
 
             return RedirectToAction("Index", new {ID = id});
         }

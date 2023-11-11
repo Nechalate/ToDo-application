@@ -2897,11 +2897,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\relay\\OneDrive\\Рабочий стол\\PetProjects\\ToDoApplication\\Task planner\\Task planner.csproj",
+      "projectUniqueName": "D:\\PetProjects\\ToDoApplication\\Task planner\\Task planner.csproj",
       "projectName": "Task planner",
-      "projectPath": "C:\\Users\\relay\\OneDrive\\Рабочий стол\\PetProjects\\ToDoApplication\\Task planner\\Task planner.csproj",
+      "projectPath": "D:\\PetProjects\\ToDoApplication\\Task planner\\Task planner.csproj",
       "packagesPath": "C:\\Users\\relay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\relay\\OneDrive\\Рабочий стол\\PetProjects\\ToDoApplication\\Task planner\\obj\\",
+      "outputPath": "D:\\PetProjects\\ToDoApplication\\Task planner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\relay\\AppData\\Roaming\\NuGet\\NuGet.Config",
