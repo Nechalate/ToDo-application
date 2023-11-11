@@ -1,5 +1,25 @@
 ﻿@model IEnumerable<ToDo>
 
     <div class="row">
-        This row
+        <div class="col-md-2">
+            <form asp-action="Filter" method="post">
+                <div class="mb-3">
+                    <label class="form-label">Category</label>
+                    <select name="filter" class="form-select"
+                    asp-items="@(new SelectList(ViewBag.Categories, "CategoryId", "Name", ViewBag.Filters.CategoryId))">
+                    <option value="all">All</option>
+                </select>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Due:</label>
+                    <select name="filter" class="form-select"
+                    asp-items="@(new SelectList(ViewBag.DueFilters, "Key", "Value", ViewBag.Filters.Due))">
+                    <option value="all">All</option>
+                </select>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-10">
+
+        </div>
     </div>
