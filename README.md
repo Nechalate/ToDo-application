@@ -5,4 +5,5 @@ The task is based on 4 parameters.
 2. Task category.
 3. Due date.
 4. Status execution.
+
 Allows you to create and delete tasks. If a task is overdue, it is highlighted in orange. There is also a filter search.
