@@ -48,6 +48,7 @@
                             <td>@task.Description</td>
                             <td>@task.Category.Name</td>
                             <td class="@overdue">@task.DueDate?.ToShortDateString()</td>
+                            <td class="@overdue">@task.Status.Name</td>
                             <td>
                                 @if(task.StatusId == "open")
                                 {
